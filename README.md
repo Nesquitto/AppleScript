@@ -37,3 +37,11 @@ For Save AppleScript What I Make
 
 1. 해당 창을 현재 Desktop으로 이동시키려고 했지만, AppleScript의 한계로 어려울 것 같아 방법을 바꿨다.
 2. 변경 방법은 항상 현재 열려있던 해당 URL 탭을 모두 지우고, 새로운 창에서 만드는 방법이다.
+
+</br>
+
+> ### ver 0.4
+
+- fix:
+
+1. tab의 index를 찾고나서 반복문으로 오류가 발생하는것을 발견, 수정
